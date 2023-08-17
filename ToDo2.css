@@ -73,23 +73,6 @@ h2{
     position:relative;
     left:-18px;
 }
-  
-/*  
-    #p::before{ 
-    content:'';
-    height:28px;
-    width:28px;
-    border-radius: 50%;
-    background-image:url(images/checked.png);
-    background-size:cover;
-    background-position:center;
-    top:12px;
-    left:8px;
-    position:absolute;
-    top:0.8px;
-    left:-35px;
-} */
- 
     
 
 .donebtn{
