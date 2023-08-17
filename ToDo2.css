@@ -183,5 +183,10 @@ h2{
 .vimeovideo{
     margin-left:702px;
     margin-top:-228px;
+    color:white;
 
+}
+.vimeovideo a{
+    margin-left:10px;
+    color:rgba(255, 255, 255, 0.667);
 }
