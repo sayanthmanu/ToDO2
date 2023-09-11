@@ -106,7 +106,7 @@ textfield.addEventListener("keypress",function(event){
     })
     done.addEventListener("click",function(){
             if(done.textContent=="Done"){
-                // paragraph.style.textDecoration="line-through";
+                // paragraphstyle.textDecoration="line-through";
                 done.textContent="Undo";
                 paragraph.appendChild(check);
                 p.style.backgroundColor="rgba(255, 255, 255, 0.366)";
