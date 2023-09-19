@@ -175,8 +175,24 @@ h2{
 }
 .cky-banner-element{
     color:white;
+    font-size: 60%;
+    position:relative;
+
+   
 }
 .cky-banner-element:hover{
     cursor: pointer;
     color: rgba(0, 152, 158, 0.655)
+}
+.revisit-button{
+   
+margin-left:1330px;
+margin-top:100px;
+background-color: #203a43;
+display:flex;
+text-align: center;
+Padding-left:12px;
+padding-top:10px;
+padding-bottom:10px;
+border-radius: 100px;
 }
