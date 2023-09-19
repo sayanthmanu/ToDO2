@@ -176,3 +176,7 @@ h2{
 .cky-banner-element{
     color:white;
 }
+.cky-banner-element:hover{
+    cursor: pointer;
+    color: rgba(0, 152, 158, 0.655)
+}
