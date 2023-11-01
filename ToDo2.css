@@ -10,7 +10,7 @@ h2{
     border-radius:5px;
 }
 h2:hover{
-    cursor:pointer;
+    cursor:default;
 }
 .container{
     margin-top:50px;
