@@ -10,7 +10,7 @@ h2{
     border-radius:5px;
 }
 h2:hover{
-    cursor:pointer;
+    cursor:auto;
 }
 .container{
     margin-top:50px;
@@ -130,7 +130,7 @@ h2:hover{
     right:525px;
 }
 #btn:hover{
-    cursor:auto;
+    cursor:pointer;
     border-style:solid;
     border-width: 0.5px;
     border-color:rgba(1, 1, 91, 0.762);
